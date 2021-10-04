@@ -84,6 +84,7 @@ body {
     bottom: 0;
     right: 0;
     animation-delay: 0.1s;
+    background: #333;
 }
 
 .loader span:nth-child(2) {
